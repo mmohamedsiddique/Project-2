@@ -31,7 +31,7 @@ body {
 
 
 .menu {
-  float: auto;
+  float: no float;
 }
 
 .menu li {

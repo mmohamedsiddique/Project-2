@@ -154,17 +154,7 @@ h1.textheading {
   border-right: 1px solid #f5f5f5;
 }
 
-.resumebody {
-  background-color: #f5f5f5;
-  color: #233237;
-  width: 70%;
-  margin-right: auto;
-  margin-left: auto;
-  padding: 60px 40px;
-   font-family: 'Montserrat', cursive;
-  line-height: 1.35em;
 
-}
 .info li {
  text-align: center;
  
